@@ -1,0 +1,25 @@
+{
+  "name": "clase081122",
+  "version": "1.0.0",
+  "description": "http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZurielSalvador/Clase081122.git"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "Zuriel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZurielSalvador/Clase081122/issues"
+  },
+  "homepage": "https://github.com/ZurielSalvador/Clase081122#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
